@@ -1,5 +1,5 @@
 # Vehicle-Logo-Classifier
-Vehicle Logo Classifier using CNN and OpenCV's DNN module
+Vehicle Logo Classification using CNN and OpenCV's DNN module
 
 ##Install dependencies:
 
