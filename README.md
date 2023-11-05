@@ -1,7 +1,7 @@
 # Vehicle-Logo-Classifier
 Vehicle Logo Classification using CNN and OpenCV's DNN module
 
-##Install dependencies:
+## Install dependencies:
 
 ```bash
 pip install tensorflow
